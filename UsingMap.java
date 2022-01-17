@@ -5,9 +5,9 @@ public class UsingMap {
 			
 					//Hashmap
 					HashMap<Integer,String> hm=new HashMap<Integer,String>();      
-				      hm.put(1,"Tim");    
-				      hm.put(2,"Mary");    
-				      hm.put(3,"Catie");   
+				      hm.put(1,"yenu");    
+				      hm.put(2,"bubu");    
+				      hm.put(3,"hunu");   
 				       
 				      System.out.println("\nThe elements of Hashmap are ");  
 				      for(Map.Entry m:hm.entrySet()){    
@@ -18,10 +18,10 @@ public class UsingMap {
 				       
 				      Hashtable<Integer,String> ht=new Hashtable<Integer,String>();  
 				      
-				      ht.put(4,"Ales");  
-				      ht.put(5,"Rosy");  
-				      ht.put(6,"Jack");  
-				      ht.put(7,"John");  
+				      ht.put(4,"seenu");  
+				      ht.put(5,"tanu");  
+				      ht.put(6,"manu");  
+				      ht.put(7,"banu");  
 
 				      System.out.println("\nThe elements of HashTable are ");  
 				      for(Map.Entry n:ht.entrySet()){    
@@ -32,9 +32,9 @@ public class UsingMap {
 				      //TreeMap
 				      
 				      TreeMap<Integer,String> map=new TreeMap<Integer,String>();    
-				      map.put(8,"Annie");    
-				      map.put(9,"Carlotte");    
-				      map.put(10,"Catie");       
+				      map.put(8,"rama");    
+				      map.put(9,"seeta");    
+				      map.put(10,"ravana");       
 				      
 				      System.out.println("\nThe elements of TreeMap are ");  
 				      for(Map.Entry l:map.entrySet()){    

@@ -1,4 +1,3 @@
-		
 		import java.util.Scanner;
 public class ArithmeticCalculator1 {
 public static void main(String[] args) {
@@ -30,16 +29,9 @@ public static void main(String[] args) {
 					break;
 					default:
 						System.out.println("Invalid operator!");
-						break;
-					
-				}
+						break;}
 				scan.close();
-				
-				
-
-			}
-
-		}
+}}
 		
 
 

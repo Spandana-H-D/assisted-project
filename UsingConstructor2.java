@@ -12,7 +12,7 @@ public class UsingConstructor2 {
 			System.out.println(ref.val);
 			 UsingConstructor2 emp1=new UsingConstructor2();
 			 emp1.display();
-			 paraConstructor emp2=new paraConstructor(954765,"Syed945@");
+			 paraConstructor emp2=new paraConstructor(910810,"Spandu980@");
 				 
 			 }
 		}
